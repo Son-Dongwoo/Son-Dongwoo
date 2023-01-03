@@ -6,10 +6,10 @@
 > 🏡 **B.S in Robotics** from Kwangwoon University, Seoul, South Korea (2021.3 ~ )
 
 ### :orange_book: I'm Interest in   
-> 🔎 **Reinforcement Learning**
-> 🔎 **Deep Learning**
-> 🔎 **Manipulator**
-> 🔎 **J.A.R.V.I.S (Iron Man)**
+> 🔎 **Reinforcement Learning**   
+> 🔎 **Deep Learning**   
+> 🔎 **Manipulator**   
+> 🔎 **J.A.R.V.I.S (Iron Man)**   
 
 ### 👉 About Me
 
