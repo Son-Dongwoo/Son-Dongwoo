@@ -5,6 +5,9 @@
 <!-- **I am studying at the Department of Robotics of Kwangwoon University.** -->
 > 🏫 **B.S in Robotics** from Kwangwoon University, Seoul, South Korea (2021.3 ~ )
 
+### 🌱 Club
+> 💨 BARAM (Robotics Academic Group).(2022.3~)
+
 ### 💭 I'm Interest in   
 > 🔎 **Reinforcement Learning**   
 > 🔎 **Deep Learning**   
