@@ -57,6 +57,8 @@ Personal Blog : [https://dnd-qodqks.github.io/](https://dnd-qodqks.github.io/)<b
 
 <div align=center>
 🚀**Tech Stack**🚀
+<br>
+  
   <img src="https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=C&logoColor=white"/> 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -64,13 +66,11 @@ Personal Blog : [https://dnd-qodqks.github.io/](https://dnd-qodqks.github.io/)<b
   
   [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=dndqodqks)](https://solved.ac/dndqodqks)
   <br>
-  
-  ![](https://leetcard.jacoblin.cool/dnd-qodqks?theme=light,unicorn)
 </div>
 
 <div align=center>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnd-qodqks&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
  <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnd-qodqks)](https://github.com/anuraghazra/github-readme-stats)  
 
