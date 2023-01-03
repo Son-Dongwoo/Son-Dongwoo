@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=DongWooSon&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Robotics&descAlignY=55&descAlign=72.8)
   
-## Hi there, I'm Dongwoo Son 👋  
+## Hi there, I'm Dongwoo Son 👋😄  
 
 **I am studying at the Department of Robotics of Kwangwoon University.**
 
@@ -44,18 +44,34 @@ Personal Blog : [https://dnd-qodqks.github.io/](https://dnd-qodqks.github.io/)<b
 
 <div align=center>
 
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://lee-jaewon.github.io/Aboutme/)
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://https://dnd-qodqks.github.io/)
   <!--
   [![CV](http://img.shields.io/badge/-CV-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://github.com/Lee-JaeWon/Lee-JaeWon_CV/blob/main/Lee-JaeWon_CV.pdf) 
   [![Email](http://img.shields.io/badge/-Email-black?style=flat-square&logo=Naver&link=https://davinci-ai.tistory.com/)](https://lee-jaewon.github.io/Aboutme/email) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jaewon-lee-profile/)](https://www.linkedin.com/in/jaewon-lee-profile/)
-  -->
 <br>  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdnd-qodqks&count_bg=%238CEAE5&title_bg=%23717171&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLee-JaeWon&count_bg=%237FC4BF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  -->
+  
+</div>
 
+<div align=center>
+🚀**Tech Stack**🚀
+  <img src="https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=C&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <br>
+  
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=dndqodqks)](https://solved.ac/dndqodqks)
+  <br>
+  
+  ![](https://leetcard.jacoblin.cool/dnd-qodqks?theme=light,unicorn)
+</div>
 
 <div align=center>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnd-qodqks&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnd-qodqks)](https://github.com/anuraghazra/github-readme-stats)  
 
 </div>
@@ -63,7 +79,7 @@ Personal Blog : [https://dnd-qodqks.github.io/](https://dnd-qodqks.github.io/)<b
 
 
 <!--
-**Lee-JaeWon/Lee-JaeWon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dnd-qodqks/dnd-qodqks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
