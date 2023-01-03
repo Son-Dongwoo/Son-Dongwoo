@@ -1,7 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=DongWooSon&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Robotics&descAlignY=55&descAlign=72.8)
-  
-### Hello, I'm Dongwoo Son 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hello, I'm Dongwoo Son 👋&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Robotics&descAlignY=55&descAlign=72.8)
 
 ### 🌱 Education
 <!-- **I am studying at the Department of Robotics of Kwangwoon University.** -->
