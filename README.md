@@ -12,10 +12,7 @@
 > 🔎 **J.A.R.V.I.S (Iron Man)**   
 
 ### 👉 About Me
-
-<div align=center>
-
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://https://dnd-qodqks.github.io/)
+> [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://https://dnd-qodqks.github.io/)
 
 <!-- 나중에 추가하기
 [![CV](http://img.shields.io/badge/-CV-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://github.com/Taeyoung96/TaeyoungKim_CV/blob/master/TaeyoungKim_CV.pdf)
@@ -23,9 +20,6 @@
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/harim.kang)](https://www.facebook.com/profile.php?id=100015469002427)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/tae-young-kim-595692139/)](https://www.linkedin.com/in/tae-young-kim-595692139/)
 -->
-  
-</div>
-
 
 ---
 
