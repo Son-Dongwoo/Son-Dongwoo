@@ -70,8 +70,6 @@ Personal Blog : [https://dnd-qodqks.github.io/](https://dnd-qodqks.github.io/)<b
 
 <div align=center>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnd-qodqks&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnd-qodqks)](https://github.com/anuraghazra/github-readme-stats)  
 
 </div>
