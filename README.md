@@ -8,7 +8,7 @@
 ### 🌱 Club
 > 💨 BARAM (Robotics Academic Group).(2021.3 ~ )
 
-### 💭 I'm Interest in   
+### 💭 I'm Interested in   
 > 🔎 **Reinforcement Learning**   
 > 🔎 **Deep Learning**   
 > 🔎 **Manipulator**   
