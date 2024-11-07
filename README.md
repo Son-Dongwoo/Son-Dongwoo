@@ -11,7 +11,7 @@
 ### 💭 I'm Interested in   
 > 🔎 **Reinforcement Learning**   
 > 🔎 **Deep Learning**   
-> 🔎 **Manipulator**   
+> 🔎 **Mobile Robotics**   
 > 🔎 **J.A.R.V.I.S (Iron Man)**   
 
 ### 👉 About Me
