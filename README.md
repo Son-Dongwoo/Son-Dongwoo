@@ -12,7 +12,6 @@
 > 🔎 **Reinforcement Learning**   
 > 🔎 **Deep Learning**   
 > 🔎 **Mobile Robotics**   
-> 🔎 **J.A.R.V.I.S (Iron Man)**   
 
 ### 👉 About Me
 > [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://son-dongwoo.github.io/)
