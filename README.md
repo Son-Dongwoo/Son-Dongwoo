@@ -13,6 +13,7 @@
 > 🔎 **Deep Learning**   
 > 🔎 **Mobile Robotics**   
 
+<!-- 
 ### 👉 About Me
 > [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://son-dongwoo.github.io/)
 
@@ -34,4 +35,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnd-qodqks)](https://github.com/anuraghazra/github-readme-stats)   
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=footer&fontSize=90)
-
+-->
