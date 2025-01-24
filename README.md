@@ -9,6 +9,5 @@
 > 💨 BARAM (Robotics Academic Group).(2021.3 ~ )
 
 ### 💭 I'm Interested in   
-> 🔎 **Reinforcement Learning**   
-> 🔎 **Deep Learning**   
-> 🔎 **Mobile Robotics**  
+> 🔎 **Deep Reinforcement Learning**   
+> 🔎 **Robot Learning**
