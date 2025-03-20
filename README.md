@@ -5,6 +5,9 @@
 <!-- **I am studying at the Department of Robotics of Kwangwoon University.** -->
 > 🏫 **B.S in Robotics** from Kwangwoon University, Seoul, South Korea (2021.3 ~ )
 
+💡 Research Experience
+> 🤖 Undergraduate Researcher at [DREAM Lab](https://sites.google.com/view/lab-dream/), Kwangwoon University (2025.3 ~ )
+
 ### 🌱 Club
 > 💨 BARAM (Robotics Academic Group).(2021.3 ~ )
 
