@@ -9,7 +9,7 @@
 > 🤖 Undergraduate Researcher at [DREAM Lab](https://sites.google.com/view/lab-dream/), Kwangwoon University (2025.3 ~ )
 
 ### 🌱 Club
-> 💨 BARAM (Robotics Academic Group).(2021.3 ~ )
+> 💨 [BARAM](https://cafe.naver.com/roboticsbaram) (Robotics Academic Group).(2021.3 ~ )
 
 ### 💭 I'm Interested in   
 > 🔎 **Reinforcement Learning**   
